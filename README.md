@@ -6,7 +6,7 @@ The game consists of travelling around 4 rooms in a haunted house, each with at 
 
 Solve puzzles, explore the house, chat to or try hug the characters, but **beware**, using the wrong item can be fatal!
 
-Classes:
+Classes:  
 *Defined within room.py, character.py, item.py and rpginfo.py*
 
 * Room()
